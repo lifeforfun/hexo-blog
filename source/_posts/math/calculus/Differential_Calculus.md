@@ -30,3 +30,17 @@ title: 微分
 3. $\{f(x)+g(x)\}'=f'(x)+g'(x)$ 
 4. $(x^{n})'=nx^{n-1}$ (n为常数) 
 5. $\{f(x)g(x)\}'=f'(x)g(x)+f(x)g'(x)$
+
+
+
+### 三角函数导数
+$$\frac{d}{dx}\sin(x)=\cos(x)$$
+$$\frac{d}{dx}\cos(x)=-\sin(x)$$
+$$\frac{d}{\tan(x)}=\sec^2(x)$$
+$$\frac{d}{dx}\sec(x)=\sec(x)\tan(x)$$
+$$\frac{d}{dx}\csc(x)=-\csc(x)\cot(x)$$
+$$\frac{d}{dx}\cot(x)=-\csc^2(x)$$
+
+
+### 反函数求导
+$$如果y=f^{-1}(x),则\frac{dy}{dx}=\frac{1}{f'(y)}$$
