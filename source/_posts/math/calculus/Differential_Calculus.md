@@ -44,3 +44,4 @@ $$\frac{d}{dx}\cot(x)=-\csc^2(x)$$
 
 ### 反函数求导
 $$如果y=f^{-1}(x),则\frac{dy}{dx}=\frac{1}{f'(y)}$$
+$$\frac{d}{dx}(f^(-1)(x))=\frac{1}{f'(f^{-1}(x))}$$
