@@ -709,6 +709,11 @@ has-flag@^4.0.0:
   resolved "https://registry.npm.taobao.org/has-flag/download/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha1-lEdx/ZyByBJlxNaUGGDaBrtZR5s=
 
+hexo-asset-link@^2.0.2:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-asset-link/-/hexo-asset-link-2.1.0.tgz#c8e59d72fc381b97fcdb077ec75e90af4fe0fd77"
+  integrity sha512-WhV/woj7NbCdh0AKpgesCpMn7KSC/dL7ul+JEgr0eA6dVSEZJcuzVQ/2A9q6wiRF4tDIMv8PjodFR7G7+x2SSg==
+
 hexo-bunyan@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/hexo-bunyan/download/hexo-bunyan-2.0.0.tgz#020d7a51104cc7fe50df9005020c359ac504309e"
@@ -857,6 +862,11 @@ hexo-server@^1.0.0:
     morgan "^1.9.1"
     open "^6.3.0"
     serve-static "^1.14.1"
+
+hexo-theme-next-anchor@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next-anchor/-/hexo-theme-next-anchor-1.0.3.tgz#23a17b8e11afe16370f1ab25e2d1b34134f0c09f"
+  integrity sha512-yOWdZ22CtqYMcaUXAqc6zrYPpuFXUZ+uVDTT2C5dIsGS6RquP6N0nHpZNEaCC5/RPCqyKG880yrbyuE5oVd7ug==
 
 hexo-util@1.0.0:
   version "1.0.0"
@@ -1719,9 +1729,9 @@ uglify-to-browserify@~1.0.0:
   integrity sha1-bgkk1r2mta/jSeOabWMoUKD4grc=
 
 underscore@^1.8.3:
-  version "1.10.2"
-  resolved "https://registry.npm.taobao.org/underscore/download/underscore-1.10.2.tgz#73d6aa3668f3188e4adb0f1943bd12cfd7efaaaf"
-  integrity sha1-c9aqNmjzGI5K2w8ZQ70Sz9fvqq8=
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.1.tgz#0c1c6bd2df54b6b69f2314066d65b6cde6fcf9d1"
+  integrity sha512-hzSoAVtJF+3ZtiFX0VgfFPHEDRm7Y/QPjGyNo4TVdnDTdft3tr8hEkD25a1jC+TjTuE7tkHGKkhwCgs9dgBB2g==
 
 unpipe@~1.0.0:
   version "1.0.0"
