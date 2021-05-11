@@ -709,6 +709,11 @@ has-flag@^4.0.0:
   resolved "https://registry.npm.taobao.org/has-flag/download/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha1-lEdx/ZyByBJlxNaUGGDaBrtZR5s=
 
+hexo-asset-link@^2.0.2:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-asset-link/-/hexo-asset-link-2.1.0.tgz#c8e59d72fc381b97fcdb077ec75e90af4fe0fd77"
+  integrity sha512-WhV/woj7NbCdh0AKpgesCpMn7KSC/dL7ul+JEgr0eA6dVSEZJcuzVQ/2A9q6wiRF4tDIMv8PjodFR7G7+x2SSg==
+
 hexo-bunyan@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/hexo-bunyan/download/hexo-bunyan-2.0.0.tgz#020d7a51104cc7fe50df9005020c359ac504309e"
@@ -857,6 +862,11 @@ hexo-server@^1.0.0:
     morgan "^1.9.1"
     open "^6.3.0"
     serve-static "^1.14.1"
+
+hexo-theme-next-anchor@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next-anchor/-/hexo-theme-next-anchor-1.0.3.tgz#23a17b8e11afe16370f1ab25e2d1b34134f0c09f"
+  integrity sha512-yOWdZ22CtqYMcaUXAqc6zrYPpuFXUZ+uVDTT2C5dIsGS6RquP6N0nHpZNEaCC5/RPCqyKG880yrbyuE5oVd7ug==
 
 hexo-util@1.0.0:
   version "1.0.0"
@@ -1055,15 +1065,10 @@ lazy-cache@^1.0.3:
   resolved "https://registry.npm.taobao.org/lazy-cache/download/lazy-cache-1.0.4.tgz#a1d78fc3a50474cb80845d3b3b6e1da49a446e8e"
   integrity sha1-odePw6UEdMuAhF07O24dpJpEbo4=
 
-lodash@^4.17.11:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
-
-lodash@^4.17.4:
-  version "4.17.19"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.19.tgz?cache=0&sync_timestamp=1594226827854&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
-  integrity sha1-5I3e2+MLMyF4PFtDAfvTU7weSks=
+lodash@^4.17.11, lodash@^4.17.4:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 longest@^1.0.1:
   version "1.0.1"
