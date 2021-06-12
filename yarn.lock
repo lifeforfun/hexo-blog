@@ -634,9 +634,9 @@ fsevents@~2.1.2:
   integrity sha1-+3OHA66NL5/pAMM4Nt3r7ouX8j4=
 
 glob-parent@~5.1.0:
-  version "5.1.1"
-  resolved "https://registry.npm.taobao.org/glob-parent/download/glob-parent-5.1.1.tgz?cache=0&sync_timestamp=1584836110944&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fglob-parent%2Fdownload%2Fglob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha1-tsHvQXxOVmPqSY8cRa+saRa7wik=
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -708,6 +708,11 @@ has-flag@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npm.taobao.org/has-flag/download/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha1-lEdx/ZyByBJlxNaUGGDaBrtZR5s=
+
+hexo-asset-link@^2.0.2:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-asset-link/-/hexo-asset-link-2.1.0.tgz#c8e59d72fc381b97fcdb077ec75e90af4fe0fd77"
+  integrity sha512-WhV/woj7NbCdh0AKpgesCpMn7KSC/dL7ul+JEgr0eA6dVSEZJcuzVQ/2A9q6wiRF4tDIMv8PjodFR7G7+x2SSg==
 
 hexo-bunyan@^2.0.0:
   version "2.0.0"
@@ -858,6 +863,11 @@ hexo-server@^1.0.0:
     open "^6.3.0"
     serve-static "^1.14.1"
 
+hexo-theme-next-anchor@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next-anchor/-/hexo-theme-next-anchor-1.0.3.tgz#23a17b8e11afe16370f1ab25e2d1b34134f0c09f"
+  integrity sha512-yOWdZ22CtqYMcaUXAqc6zrYPpuFXUZ+uVDTT2C5dIsGS6RquP6N0nHpZNEaCC5/RPCqyKG880yrbyuE5oVd7ug==
+
 hexo-util@1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/hexo-util/download/hexo-util-1.0.0.tgz#2545efcd66e345ef92fe48a73a35470cd65f0b2a"
@@ -983,7 +993,7 @@ is-buffer@^1.1.5:
 
 is-extglob@^2.1.1:
   version "2.1.1"
-  resolved "https://registry.npm.taobao.org/is-extglob/download/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
+  resolved "https://registry.yarnpkg.com/is-extglob/-/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
   integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
 
 is-glob@^4.0.1, is-glob@~4.0.1:
