@@ -709,6 +709,11 @@ has-flag@^4.0.0:
   resolved "https://registry.npm.taobao.org/has-flag/download/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha1-lEdx/ZyByBJlxNaUGGDaBrtZR5s=
 
+hexo-asset-link@^2.0.2:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-asset-link/-/hexo-asset-link-2.1.0.tgz#c8e59d72fc381b97fcdb077ec75e90af4fe0fd77"
+  integrity sha512-WhV/woj7NbCdh0AKpgesCpMn7KSC/dL7ul+JEgr0eA6dVSEZJcuzVQ/2A9q6wiRF4tDIMv8PjodFR7G7+x2SSg==
+
 hexo-bunyan@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/hexo-bunyan/download/hexo-bunyan-2.0.0.tgz#020d7a51104cc7fe50df9005020c359ac504309e"
@@ -857,6 +862,11 @@ hexo-server@^1.0.0:
     morgan "^1.9.1"
     open "^6.3.0"
     serve-static "^1.14.1"
+
+hexo-theme-next-anchor@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next-anchor/-/hexo-theme-next-anchor-1.0.3.tgz#23a17b8e11afe16370f1ab25e2d1b34134f0c09f"
+  integrity sha512-yOWdZ22CtqYMcaUXAqc6zrYPpuFXUZ+uVDTT2C5dIsGS6RquP6N0nHpZNEaCC5/RPCqyKG880yrbyuE5oVd7ug==
 
 hexo-util@1.0.0:
   version "1.0.0"
@@ -1592,9 +1602,9 @@ strip-indent@^3.0.0:
     min-indent "^1.0.0"
 
 striptags@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.npm.taobao.org/striptags/download/striptags-3.1.1.tgz#c8c3e7fdd6fb4bb3a32a3b752e5b5e3e38093ebd"
-  integrity sha1-yMPn/db7S7OjKjt1LltePjgJPr0=
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/striptags/-/striptags-3.2.0.tgz#cc74a137db2de8b0b9a370006334161f7dd67052"
+  integrity sha512-g45ZOGzHDMe2bdYMdIvdAfCQkCTDMGBazSw1ypMowwGIee7ZQ5dU0rBJ8Jqgl+jAKIv4dbeE1jscZq9wid1Tkw==
 
 stylus@0.54.5:
   version "0.54.5"
